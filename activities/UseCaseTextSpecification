@@ -1,0 +1,59 @@
+# UseCaseTextSpecification
+
+Activity is focused on understand and exercise of text specification of Use Case. Form of the activity is text specification, which contains often mistakes. Student task is to find mistakes and fix them.
+
+| Parameters:        |                                     |
+| -----------------: | :---------------------------------- |
+| **Duration:**      | 15 minutes                          |
+| **Participants:**  | 1-18 students                       |
+| **Instructors:**   | 1 teachers                          |
+| **Class:**         | PCs/projectionist/board                   |
+| **Resources:**     | nothing    |
+| **Prerequisites:** | basics about Use Case               |
+
+## Learning outcomes
+
+* Students will be aware of often mistakes in text specification after this activity
+* Students learn to write nice and syntactically correct text specification
+
+## Setup and preparation
+
+* Before practising the activity you should have prepare doc and projectionist in room 
+* If you have room without projectionist, you can write text specification on the board before activity
+* Suggest doc is following text specification:
+
+Use Case: Cash Deposit
+Primary actor:  Customer
+Secundary actor:  Bank officer, Branch manager
+Preconditions: Customer demonstrates a valid id card
+Main Flow:
+1. Customer show ID card and tell number of bank account to the bank officer.
+2. Bank officer give bank account number to system
+3. IF account exist:
+  - bank officer take money from customer
+  - add them to the account
+  - bank officer print confirmation
+  - customer get confirmation SMS about Deposit
+PostConditions: none  
+
+## Activity overview
+
+* Examiner shows text specification to the students. 
+* Examiner read text specification and give few minutes to students to think about mistakes in it.
+* When students are ready, they can say, what is mistake, and why they think it.
+* Examiner correct every mistake in the doc/on the board after student told what is mistake
+* Examiner should repeat after every mistake, why it is mistake. Activity can/should be part of explanation of the subject
+* When all mistakes are corrected, activity ends.
+
+
+## Tips and tricks
+
+* Examiner should appreciate the effort of student
+* When you have group of students there can be a interesting discussion 
+
+## Related material
+
+* -
+
+## Author
+Bibiána Ťureková 2019
